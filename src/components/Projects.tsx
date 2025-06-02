@@ -22,13 +22,13 @@ const Projects = () => {
       help: 'Haz clic en "Demo" para acceder a la calculadora, la cual he subido a Replit. Una vez allí, solo presiona "Run" para ejecutar la aplicación y ver cómo funciona.'
     },
     {
-      title: 'Project Three',
-      description: 'A mobile-first social media dashboard',
-      media: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=500&q=80',
-      type: 'image',
-      github: 'https://github.com',
-      demo: 'https://example.com',
-      tags: ['React', 'Firebase', 'Material-UI']
+      title: 'Patitas',
+      description: 'La aplicacion personal de mi emprendimiento "patitas", hecha con React, Node.js y MongoDB (aún en desarrollo)',
+      media: '/Patitas.mp4',
+      type: 'video',
+      github: 'https://github.com/GLucasMa/Patitas',
+      demo: '',
+      tags: ['Node.js', 'Angular', 'NestJS']
     }
   ];
 
